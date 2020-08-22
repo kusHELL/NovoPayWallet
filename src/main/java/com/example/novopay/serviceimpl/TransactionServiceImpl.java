@@ -1,6 +1,6 @@
 package com.example.novopay.serviceimpl;
 
-import com.example.novopay.constans.PaymentConstants;
+import com.example.novopay.constants.PaymentConstants;
 import com.example.novopay.dto.PaymentTransferDto;
 import com.example.novopay.model.Transaction;
 import com.example.novopay.model.User;
